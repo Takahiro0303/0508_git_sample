@@ -2,6 +2,7 @@
 
 echo 'Hello world';
 echo 'コンフリクトさせるぜ'
+echo 'hogehoge';
 
  ?>
 
