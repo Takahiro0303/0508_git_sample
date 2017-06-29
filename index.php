@@ -2,6 +2,8 @@
 
 echo 'Hello world';
 $name= 'Github';
+echo 'コンフリクトさせるぜ'
+echo 'hogehoge';
 
  ?>
 
