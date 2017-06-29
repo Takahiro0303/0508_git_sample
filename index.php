@@ -1,6 +1,7 @@
 <?php 
 
 echo 'Hello world';
+$name= 'Github';
 
  ?>
 
